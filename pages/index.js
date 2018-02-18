@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-const Index = (props) => {
+const Index = () => {
   return (
     <div>
       <div>
